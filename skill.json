@@ -1,0 +1,9 @@
+{
+  "name": "genpark-json-schema-contract-validator-skill",
+  "version": "1.0.1",
+  "description": "Zero-dependency JSON schema subset validator ensuring LLM structured outputs strictly conform to tool contracts",
+  "tools": [
+    "validate_contract",
+    "sanitize_and_repair"
+  ]
+}
